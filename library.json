@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-sharp-gp2y0a02-infrared-distance-sensor-20-150cm",
+  "title": "sharp-gp2y0a02-infrared-distance-sensor-20-150cm",
+  "keywords": "sharp-gp2y0a02-infrared-distance-sensor-20-150cm, esp32, esp8266, arduino",
+  "description": "sharp-gp2y0a02-infrared-distance-sensor-20-150cm plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-sharp-gp2y0a02-infrared-distance-sensor-20-150cm/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-sharp-gp2y0a02-infrared-distance-sensor-20-150cm/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
